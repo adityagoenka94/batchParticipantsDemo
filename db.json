@@ -99,215 +99,122 @@
       }
     }
   },
-  "users": {
+  "users": 
+  {
     "id": "api.user.search",
     "ver": "v1",
     "ts": "2019-05-21 10:44:05:071+0000",
     "params": {
-      "resmsgid": null,
-      "msgid": "0f9c8014-36ed-4342-ac4b-d1c77e4bc09c",
-      "err": null,
-      "status": "success",
-      "errmsg": null
+        "resmsgid": null,
+        "msgid": "0f9c8014-36ed-4342-ac4b-d1c77e4bc09c",
+        "err": null,
+        "status": "success",
+        "errmsg": null
     },
     "responseCode": "OK",
     "result": {
-      "response": {
-        "count": 2,
-        "content": [
-          {
-            "webPages": [],
-            "lastName": null,
-            "tcStatus": null,
-            "education": [],
-            "gender": null,
-            "subject": [],
-            "roles": [
-              "PUBLIC"
-            ],
-            "channel": "niit-Channel",
-            "language": [],
-            "updatedDate": "2019-04-09 09:33:23:226+0000",
-            "skills": [],
-            "badgeAssertions": [],
-            "isDeleted": false,
-            "organisations": [
-              {
-                "organisationId": "0127053482034872320",
-                "updatedBy": null,
-                "addedByName": null,
-                "addedBy": null,
-                "roles": [
-                  "CONTENT_CREATOR",
-                  "CONTENT_CREATION",
-                  "COURSE_MENTOR",
-                  "BOOK_CREATOR",
-                  "BOOK_REVIEWER",
-                  "ORG_ADMIN",
-                  "PUBLIC"
-                ],
-                "approvedBy": null,
-                "updatedDate": "2019-03-12 07:45:55:531+0000",
-                "userId": "2ea37912-ce7d-44c0-8816-34be186ad05c",
-                "approvaldate": null,
-                "isDeleted": false,
-                "hashTagId": "0127053482034872320",
-                "isRejected": false,
-                "id": "0127170677059993606",
-                "position": null,
-                "isApproved": false,
-                "orgjoindate": "2019-03-12 07:30:38:693+0000",
-                "orgLeftDate": null
-              }
-            ],
-            "provider": null,
-            "countryCode": null,
-            "id": "2ea37912-ce7d-44c0-8816-34be186ad05c",
-            "tempPassword": null,
-            "identifier": "2ea37912-ce7d-44c0-8816-34be186ad05c",
-            "thumbnail": null,
-            "updatedBy": "2ea37912-ce7d-44c0-8816-34be186ad05c",
-            "jobProfile": [],
-            "address": [],
-            "phoneVerified": false,
-            "profileSummary": null,
-            "tcUpdatedDate": null,
-            "locationIds": [],
-            "registryId": null,
-            "avatar": null,
-            "userName": "olivia",
-            "rootOrgId": "0127053482034872320",
-            "firstName": "Olivia Lee",
-            "emailVerified": true,
-            "lastLoginTime": null,
-            "tncAcceptedOn": null,
-            "createdDate": "2019-03-12 07:30:38:537+0000",
-            "framework": {
-              "gradeLevel": [
-                "Web Development",
-                "Software Developement",
-                "App Developement"
-              ],
-              "subject": [
-                "Paid",
-                "free"
-              ],
-              "id": [
-                "niit_tv"
-              ],
-              "medium": [
-                "Self Placed",
-                "Instructor Led"
-              ],
-              "board": [
-                "Working Professionals"
-              ]
-            },
-            "createdBy": null,
-            "dob": null,
-            "grade": [],
-            "currentLoginTime": null,
-            "location": null,
-            "userType": "OTHER",
-            "tncAcceptedVersion": null,
-            "status": 1
-          },
-          {
-            "webPages": [],
-            "lastName": null,
-            "tcStatus": null,
-            "education": [],
-            "gender": null,
-            "subject": [],
-            "roles": [
-              "PUBLIC"
-            ],
-            "channel": "niit-Channel",
-            "language": [],
-            "updatedDate": "2019-05-21 07:03:17:630+0000",
-            "skills": [],
-            "badgeAssertions": [],
-            "isDeleted": false,
-            "organisations": [
-              {
-                "organisationId": "0127053482034872320",
-                "updatedBy": null,
-                "addedByName": null,
-                "addedBy": null,
-                "roles": [
-                  "CONTENT_CREATOR",
-                  "CONTENT_CREATION",
-                  "COURSE_MENTOR",
-                  "BOOK_CREATOR",
-                  "BOOK_REVIEWER",
-                  "CONTENT_REVIEWER",
-                  "ORG_ADMIN",
-                  "PUBLIC"
-                ],
-                "approvedBy": null,
-                "updatedDate": "2019-03-06 05:24:39:338+0000",
-                "userId": "6f324db7-32a5-4437-a451-35cf53269aaf",
-                "approvaldate": null,
-                "isDeleted": false,
-                "hashTagId": "0127053482034872320",
-                "isRejected": false,
-                "id": "0127127545348669441",
-                "position": null,
-                "isApproved": false,
-                "orgjoindate": "2019-03-06 05:13:55:589+0000",
-                "orgLeftDate": null
-              }
-            ],
-            "provider": null,
-            "countryCode": null,
-            "id": "6f324db7-32a5-4437-a451-35cf53269aaf",
-            "tempPassword": null,
-            "identifier": "6f324db7-32a5-4437-a451-35cf53269aaf",
-            "thumbnail": null,
-            "updatedBy": "6f324db7-32a5-4437-a451-35cf53269aaf",
-            "jobProfile": [],
-            "address": [],
-            "phoneVerified": false,
-            "profileSummary": null,
-            "tcUpdatedDate": null,
-            "locationIds": [],
-            "registryId": "24223243432",
-            "avatar": null,
-            "userName": "aditya",
-            "rootOrgId": "0127053482034872320",
-            "firstName": "Aditya",
-            "emailVerified": true,
-            "lastLoginTime": null,
-            "tncAcceptedOn": null,
-            "createdDate": "2019-03-06 05:13:55:422+0000",
-            "framework": {
-              "gradeLevel": [
-                "Data Science"
-              ],
-              "subject": [
-                "Soft Skills"
-              ],
-              "id": [
-                "niit_tv"
-              ],
-              "medium": [
-                "Instructor Led"
-              ],
-              "board": [
-                "Sales"
-              ]
-            },
-            "createdBy": null,
-            "dob": null,
-            "grade": [],
-            "currentLoginTime": null,
-            "location": null,
-            "userType": "OTHER",
-            "tncAcceptedVersion": null,
-            "status": 1
-          }
-        ]
-      }
+        "response": {
+            "count": 2,
+            "content": [
+                {
+                    "webPages": [],
+                    "lastName": null,
+                    "tcStatus": null,
+                    "education": [],
+                    "gender": null,
+                    "subject": [],
+                    "roles": [
+                        "PUBLIC"
+                    ],
+                    "channel": "niit-Channel",
+                    "language": [],
+                    "updatedDate": "2019-04-09 09:33:23:226+0000",
+                    "skills": [],
+                    "badgeAssertions": [],
+                    "isDeleted": false,
+                    "organisations": [
+                        {
+                            "organisationId": "0127053482034872320",
+                            "updatedBy": null,
+                            "addedByName": null,
+                            "addedBy": null,
+                            "roles": [
+                                "CONTENT_CREATOR",
+                                "CONTENT_CREATION",
+                                "COURSE_MENTOR",
+                                "BOOK_CREATOR",
+                                "BOOK_REVIEWER",
+                                "ORG_ADMIN",
+                                "PUBLIC"
+                            ],
+                            "approvedBy": null,
+                            "updatedDate": "2019-03-12 07:45:55:531+0000",
+                            "userId": "2ea37912-ce7d-44c0-8816-34be186ad05c",
+                            "approvaldate": null,
+                            "isDeleted": false,
+                            "hashTagId": "0127053482034872320",
+                            "isRejected": false,
+                            "id": "0127170677059993606",
+                            "position": null,
+                            "isApproved": false,
+                            "orgjoindate": "2019-03-12 07:30:38:693+0000",
+                            "orgLeftDate": null
+                        }
+                    ],
+                    "provider": null,
+                    "countryCode": null,
+                    "id": "2ea37912-ce7d-44c0-8816-34be186ad05c",
+                    "tempPassword": null,
+                    "identifier": "2ea37912-ce7d-44c0-8816-34be186ad05c",
+                    "thumbnail": null,
+                    "updatedBy": "2ea37912-ce7d-44c0-8816-34be186ad05c",
+                    "jobProfile": [],
+                    "address": [],
+                    "phoneVerified": false,
+                    "profileSummary": null,
+                    "tcUpdatedDate": null,
+                    "locationIds": [],
+                    "registryId": null,
+                    "avatar": null,
+                    "userName": "olivia",
+                    "rootOrgId": "0127053482034872320",
+                    "firstName": "Olivia Lee",
+                    "emailVerified": true,
+                    "lastLoginTime": null,
+                    "tncAcceptedOn": null,
+                    "createdDate": "2019-03-12 07:30:38:537+0000",
+                    "framework": {
+                        "gradeLevel": [
+                            "Web Development",
+                            "Software Developement",
+                            "App Developement"
+                        ],
+                        "subject": [
+                            "Paid",
+                            "free"
+                        ],
+                        "id": [
+                            "niit_tv"
+                        ],
+                        "medium": [
+                            "Self Placed",
+                            "Instructor Led"
+                        ],
+                        "board": [
+                            "Working Professionals"
+                        ]
+                    },
+                    "createdBy": null,
+                    "dob": null,
+                    "grade": [],
+                    "currentLoginTime": null,
+                    "location": null,
+                    "userType": "OTHER",
+                    "tncAcceptedVersion": null,
+                    "status": 1
+                }
+            ]
+        }
     }
-  }
+}
 }
